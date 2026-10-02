@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Telegram paper plane -->
+    <path
+        android:fillColor="#2481CC"
+        android:pathData="M24,52 L84,24 L56,80 L46,60 Z" />
+    <!-- Secondary shadow/accent for paper plane fold -->
+    <path
+        android:fillColor="#1D68A4"
+        android:pathData="M46,60 L56,80 L54,62 Z" />
+    <!-- Glowing green/cyan forwarding arrow symbolizing success -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M66,54 C74,54 80,60 80,68 C80,70 78,71 76,71 C74,71 73,70 73,68 C73,64 70,61 66,61 L62,61 L62,66 L54,58 L62,50 L62,54 Z" />
+</vector>

@@ -1,0 +1,7 @@
+{
+  "namename": "TeleForwarder",
+  "description": "Aplikasi penerus pesan Telegram (Telegram Message Forwarder) otomatis ke Telegram, Discord, atau Custom Webhook dengan pemrosesan filter kata kunci dan AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+name
